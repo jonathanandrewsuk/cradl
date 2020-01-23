@@ -137,6 +137,8 @@
 }
 
 .site-title {
+  font-family: $site-title-font-family;
+  font-weight: 700;
   @include container;
   flex-grow: 1;
   display: flex;
