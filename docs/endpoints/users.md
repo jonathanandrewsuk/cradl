@@ -61,7 +61,7 @@ Post
 
 | Key        | Description        |
 |:-------------|:------------------|
-| user_id           | unique user id |
+| id           | unique user id |
 | error_codes           | array of error codes related to request (if any)  |
 
 </div>
@@ -84,7 +84,7 @@ Patch
 
 | Key        | Description        |
 |:-------------|:------------------|
-| user_id           | unique user id |
+| id           | unique user id |
 | error_codes           | array of error codes related to request (if any)  |
 
 </div>
