@@ -14,13 +14,15 @@ nav_order: 1
 <div class="code-example" markdown="1">
 Get
 {: .label .label-green }
-Get All Users
+Get A User
 
-`https://api.cradl.com/v2/users`
+`https://api.cradl.com/v2/users/user_id`
 
-```js
-{
-  id: 1224
-}
-```
+User Object
+| Key        | Description |
+|:-------------|:------|
+| ok           | nice  |
+| out of stock | nice  |
+| ok           | hmm   |
+| ok           | yumm  |
 </div>
