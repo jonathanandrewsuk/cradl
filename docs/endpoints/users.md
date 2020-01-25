@@ -24,9 +24,12 @@ Response
 
 | Key        | Description        | 
 |:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| id           | unique user id |
+| kyc_id | id of associated kyc object   |
+| phone_number           | phone number, used for MFA      |
+| first_name           | users first name |
+| last_name           | users last name |
+| account_ids           | array of associated account ids  |
+| error_codes           | array of error codes related to request (if any)  |
 
 </div>
