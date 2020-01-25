@@ -7,7 +7,5 @@ nav_order: 3
 
 # Accounts
 
-Create accounts in the core system
-Retrieve balances 
-
-
+* Create accounts in the core system
+* Retrieve balances

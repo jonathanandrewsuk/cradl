@@ -7,7 +7,7 @@ nav_order: 5
 
 # Servicing
 
-Debit/Credit card production
-Check Books
-Marketing/Informational Materials
+* Debit/Credit card production
+* Check Books
+* Marketing/Informational Materials
 
