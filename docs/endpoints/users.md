@@ -69,7 +69,7 @@ Post
 ## Update a Users KYC Information
 <div class="code-example" markdown="1">
 Patch
-{: .label .label-orange }
+{: .label .label-purple }
 
 `https://api.cradl.com/v2/users/user_id`
 
