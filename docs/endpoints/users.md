@@ -7,10 +7,9 @@ nav_order: 1
 
 # Users
 
-* Register user information in the schema needed for account creation in the core
-* Retrieve user information such as name, address and references to their KYC status, and any financial products they have enrolled in.
-
-
+**The users endpoint can be used in 2 ways during the onboarding process:**
+1. **Without KYC**: User objects can be created for the purpose of contacting users who have partially completed applications
+2. **With KYC**: User objects that have been created with KYC records associated are able to create account objects
 
 ## Get A User
 <div class="code-example" markdown="1">
