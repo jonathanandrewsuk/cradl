@@ -43,29 +43,24 @@ Get
 
 ## Create A User
 <div class="code-example" markdown="1">
-Get
-{: .label .label-green }
+Post
+{: .label .label-blue }
 
-`https://api.cradl.com/v2/users/user_id`
+`https://api.cradl.com/v2/users`
 
 **Request**
 
 | Key        | Description        |
 |:-------------|:------------------|
-| user_id           | unique user id |
-
+| login | user login object, email & password   |
+| phone_number           | phone number, used for MFA |
+| first_name           | users first name |
+| last_name           | users last name |
 
 **Response**
 
 | Key        | Description        |
 |:-------------|:------------------|
-| id           | unique user id |
-| kyc_id | id of associated kyc object   |
-| login | user login object, email & password   |
-| phone_number           | phone number, used for MFA |
-| first_name           | users first name |
-| last_name           | users last name |
-| account_ids           | array of associated account ids  |
-| error_codes           | array of error codes related to request (if any)  |
+| user_id           | unique user id |
 
 </div>
