@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Responsive Modifiers
+title: Accounts
 parent: Endpoints
-nav_order: 1
+nav_order: 3
 ---
 
 # Responsive modifiers

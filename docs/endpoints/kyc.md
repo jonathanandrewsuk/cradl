@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layout
+title: KYC
 parent: Endpoints
 nav_order: 2
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typography
+title: Payments
 parent: Endpoints
 nav_order: 4
 ---
