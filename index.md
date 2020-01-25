@@ -12,7 +12,7 @@ permalink: /
 The V2 API gives you more granular control over which of our services best suit the needs of your customers. If our out of the box solution doesn't quite fit your needs, you will now be able to easily integrate Cradl services into your custom experiences. 
 {: .fs-6 .fw-300 }
 
-[Endpoints](/cradl/docs/endpoints){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Migration](/cradl/docs/migration){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Endpoints Overview](/cradl/docs/endpoints){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [V1 Migration Plan](/cradl/docs/migration){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
