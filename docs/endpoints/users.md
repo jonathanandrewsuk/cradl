@@ -12,6 +12,7 @@ nav_order: 1
 
 
 
+<div class="code-example" markdown="1">
 Get
 {: .label .label-green }
 Get A User
@@ -19,13 +20,12 @@ Get A User
 `https://api.cradl.com/v2/users/user_id`
 
 User Object
-<div class="code-example" markdown="1">
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Key        | Description        | 
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
 
 </div>
