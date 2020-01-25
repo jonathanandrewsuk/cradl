@@ -20,13 +20,21 @@ Get
 
 `https://api.cradl.com/v2/users/user_id`
 
+Request
+
+| Key        | Description        | 
+|:-------------|:------------------|
+| user_id           | unique user id |
+
+
 Response
 
 | Key        | Description        | 
 |:-------------|:------------------|
 | id           | unique user id |
 | kyc_id | id of associated kyc object   |
-| phone_number           | phone number, used for MFA      |
+| login | user login object, email & password   |
+| phone_number           | phone number, used for MFA |
 | first_name           | users first name |
 | last_name           | users last name |
 | account_ids           | array of associated account ids  |
