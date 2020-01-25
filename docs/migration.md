@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Migration
 nav_order: 5
 ---
 
