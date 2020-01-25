@@ -15,6 +15,7 @@ nav_order: 1
 Get
 {: .label .label-green }
 Get All Users
+
 `https://api.cradl.com/v2/users`
 
 ```js
