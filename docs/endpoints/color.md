@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Color
-parent: Utilities
+parent: Endpoints
 nav_order: 3
 ---
 
