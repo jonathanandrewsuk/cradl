@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="33e4df44-13a9-4e83-be7e-97e0f1c3d416" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/endpoints/accounts.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/endpoints/accounts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/endpoints/kyc.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/endpoints/kyc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/endpoints/payments.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/endpoints/payments.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/endpoints/servicing.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/endpoints/servicing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/endpoints/users.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/endpoints/users.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/endpoints/endpoints.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/endpoints/endpoints.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1166" />
+          <entry key="md" value="1219" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1166" />
+          <entry key="Markdown" value="1219" />
         </counts>
       </usages-collector>
     </session>
@@ -95,12 +91,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/endpoints/endpoints.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="252">
-                <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <first_editor relative-caret-position="231">
+                <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,7 +151,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/endpoints/servicing.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -179,7 +175,6 @@
         <option value="$PROJECT_DIR$/docs/configuration.md" />
         <option value="$PROJECT_DIR$/docs/customization.md" />
         <option value="$PROJECT_DIR$/docs/navigation-structure.md" />
-        <option value="$PROJECT_DIR$/docs/endpoints/endpoints.md" />
         <option value="$PROJECT_DIR$/docs/roadmap.md" />
         <option value="$PROJECT_DIR$/docs/migration.md" />
         <option value="$PROJECT_DIR$/docs/considerations.md" />
@@ -192,6 +187,7 @@
         <option value="$PROJECT_DIR$/docs/endpoints/accounts.md" />
         <option value="$PROJECT_DIR$/docs/endpoints/payments.md" />
         <option value="$PROJECT_DIR$/docs/endpoints/servicing.md" />
+        <option value="$PROJECT_DIR$/docs/endpoints/endpoints.md" />
       </list>
     </option>
   </component>
@@ -246,7 +242,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579981042601" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579981142074" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -279,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579976369577</updated>
-      <workItem from="1579976373426" duration="3883000" />
+      <workItem from="1579976373426" duration="4000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3883000" />
+    <option name="totallyTimeSpent" value="4000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -376,16 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/endpoints/endpoints.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/endpoints/users.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -431,6 +417,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="252">
             <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/endpoints/endpoints.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="231">
+            <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
