@@ -13,7 +13,7 @@ nav_order: 1
 
 
 <div class="code-example" markdown="1">
-** Get A User **
+### Get A User
 
 Get
 {: .label .label-green }
