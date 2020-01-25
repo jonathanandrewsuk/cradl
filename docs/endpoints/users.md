@@ -14,7 +14,9 @@ nav_order: 1
 
 <div class="code-example" markdown="1">
 Get
-{: .label .label-green } **Get A User**
+{: .label .label-green }
+
+**Get A User**
 
 `https://api.cradl.com/v2/users/user_id`
 
