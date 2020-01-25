@@ -13,13 +13,14 @@ nav_order: 1
 
 
 <div class="code-example" markdown="1">
+** Get A User **
+
 Get
 {: .label .label-green }
-Get A User
 
 `https://api.cradl.com/v2/users/user_id`
 
-User Object
+Response
 
 | Key        | Description        | 
 |:-------------|:------------------|
