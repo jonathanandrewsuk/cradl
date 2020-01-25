@@ -14,7 +14,8 @@ nav_order: 1
 <div class="code-example" markdown="1">
 Get
 {: .label .label-green }
-https://api.cradl.com/v2/users
+Get All Users
+`https://api.cradl.com/v2/users`
 
 ```js
 // Javascript code with syntax highlighting.
