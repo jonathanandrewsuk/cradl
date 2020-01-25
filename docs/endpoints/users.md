@@ -16,18 +16,18 @@ nav_order: 1
 Get
 {: .label .label-green }
 
-**Get A User**
+###Get A User
 
 `https://api.cradl.com/v2/users/user_id`
 
-Request
+**Request**
 
 | Key        | Description        | 
 |:-------------|:------------------|
 | user_id           | unique user id |
 
 
-Response
+**Response**
 
 | Key        | Description        | 
 |:-------------|:------------------|
