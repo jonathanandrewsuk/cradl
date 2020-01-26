@@ -7,11 +7,11 @@ description: "Cradl API"
 
 # Considerations & Open Questions
 
-* Which tests can be carried over from the V1 version and what will be new in a microservices model?
+* Which unit tests can be carried over from the V1 version and what will be new in a microservices model?
 
 * Does it make sense to release endpoints to production as they are developed? or do we need to release in groups?
 
-* What are the documentation use cases?:
+* Documentation needs to be created for the following use cases:
     * A new user, using the API products only
     * A new user, using the V2 out-of-the-box solution
-    * A existing V1 user, looking to migrate to API products only
+    * A existing V1 user, looking to migrate to V2 API products only
