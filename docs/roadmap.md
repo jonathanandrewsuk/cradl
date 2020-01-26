@@ -48,7 +48,7 @@ description: "Cradl API"
 ### Iterative Cycles - Accounts & Payments
 
 * Bring up other endpoints in a similar fashion, getting basic functionality live and testing with key clients.
-* Perform integration testing for more advanced tasks e.g adding KYC to a User
+* Perform integration testing for more advanced tasks e.g adding KYC to a User, then funding a newly created account
 
 </div>
 
