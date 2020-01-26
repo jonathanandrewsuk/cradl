@@ -6,9 +6,6 @@ nav_order: 2
 ---
 
 # KYC
-Post
-{: .label .label-blue }
-
 `https://api.cradl.com/v2/kyc`
 
 * KYC information about a customer can be retrieved by passing in the required user details. The default paramter schema follows the response from the User endpoint
