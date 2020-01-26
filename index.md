@@ -22,10 +22,10 @@ The V2 API provides the same functionality as the out of the box solution but no
 Applications progress is saved at each step, meaning the customer can pick up a partially completed application. 
 
 ### Non Document Identity Verification
-No need for the customer to upload documents, verification decisions are usually made within seconds
+No need for the customer to upload documents, verification decisions are usually made within seconds.
 
 ### External Account Linking
-Account can be funded through secure integrations with all major banking institutions
+New accounts can be funded through secure integrations with all major banking institutions.
 
 ### Responsive signup form
 The entire sign up experience can be accessed on desktop, tablet or smartphone. 
