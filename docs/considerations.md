@@ -15,3 +15,5 @@ description: "Cradl API"
     * A new user, using the API products only
     * A new user, using the V2 out-of-the-box solution
     * A existing V1 user, looking to migrate to V2 API products only
+
+* Should we develop a front end component library to be used with the API?

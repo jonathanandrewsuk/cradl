@@ -13,6 +13,10 @@ As the V2 system will be component based both front & back, each client will be 
 
 Only when the V1 system has been unused for sometime will it be retired.
 
+## Migration Project Teams
+
+Depending on the complexity of the migration a cross-company team should be assembled. This team should include business sponsors, product owners and engineers from both Cradl and the client company.
+
 ## Risks & Dependencies
 
 * Clients are nervous about a migration and resist switching to V2
