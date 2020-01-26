@@ -13,8 +13,8 @@ description: "Cradl API"
 
 ### Client Groundwork
 
-* Reach out to a small group of clients that have been requesting API access, get a sense of functionality priority.
-* Reach out to key existing clients that may need to migrate their services in the future. If possible they should have input on the roadmap and migration plan.
+* Reach out to a small group of clients that have been requesting API access, get a sense of functionality priority
+* Reach out to key existing clients that may need to migrate their services in the future. If possible they should have input on the roadmap and migration plan
 * Draft a migration timeline e.g All KYC requests should be sent to the V2 endpoint by Q3 2020
 
 ### Technical Groundwork
@@ -24,7 +24,7 @@ description: "Cradl API"
     * How should the functionality be grouped? e.g. Should KYC and Users be contained in a single endpoint?
     * What are other endpoints to consider in the future? Lending etc
 * Create architecture plan and micro-service template
-* Create starting assumption for object shapes (User, KYC etc) and associated tests
+* Create plans for object shapes (User, KYC etc) and associated tests
 
 ### Users & KYC
 
@@ -41,14 +41,14 @@ description: "Cradl API"
 
 ### Client Feedback
 
-* Begin testing Users & KYC with small number of early adopting clients, this could be within their staging environment.
+* Begin testing Users & KYC with small number of early adopting clients, this could be within their staging environment
 * Any changes/feedback should be considered for future work. e.g Is the documentation provided comprehensive enough?
-* Begin to develop migration plan for existing clients
+* Begin to develop migration plan for existing clients.
 
 ### Iterative Cycles - Accounts & Payments
 
 * Bring up other endpoints in a similar fashion, getting basic functionality live and testing with key clients.
-* Perform integration testing for more advanced tasks e.g adding KYC to a User.
+* Perform integration testing for more advanced tasks e.g adding KYC to a User
 
 </div>
 
