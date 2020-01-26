@@ -6,7 +6,6 @@ nav_order: 4
 ---
 
 # Payments
-* Through an integration with Plaid the payments endpoint will serve to initiate ACH transfers between external accounts
-* Internal treansfers can also be initiated from the payments endpoint
+* Through an integration with [plaid](https://www.plaid.com) the payments endpoint will serve to initiate ACH transfers from external accounts
 
 ![](https://github.com/jonathanandrewsuk/cradl/blob/master/assets/images/plaid.png?raw=true)
