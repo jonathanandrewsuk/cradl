@@ -23,5 +23,5 @@ Depending on the complexity of the migration a cross-company team should be asse
 
 * Clients are nervous about a migration and resist switching to V2
 * Will client side developers be able to dedicated sufficient time to a migration project?
-* Do some migrations require extensive custom development work, who will pay for this?
-* A microservice may begin to error under heavy traffic, did we make the correct assumptions in our architecture planning?
+* Do some migrations require extensive custom development work, how will this impact timelines?
+* A micro-service may begin to error under heavy traffic, did we make the correct load assumptions in our architecture planning?
