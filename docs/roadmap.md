@@ -6,6 +6,7 @@ description: "Cradl API"
 ---
 
 # Roadmap
+<div class="code-example" markdown="1">
 
 ## Near Term
 
@@ -30,6 +31,9 @@ description: "Cradl API"
 * Create "sad path" scenarios and run tests:
     * Key fields are not passed by the user
     * KYC partner is down, how would we handle this?
+</div>
+
+<div class="code-example" markdown="1">
 
 ## Medium Term
 
@@ -44,6 +48,10 @@ description: "Cradl API"
 * Bring up other endpoints in a similar fashion, getting basic functionality live and testing with key clients.
 * Perform testing of the endpoints communicating with each other to perform more advanced tasks e.g adding KYC to a User.
 
+</div>
+
+<div class="code-example" markdown="1">
+
 ## Long Term
 
 ### Beta Release
@@ -55,3 +63,5 @@ description: "Cradl API"
 
 * How does the full set of endpoints compare to the V1 product? Stability, Cost and User Experience
 * What could be done differently as we develop new functionality? e.g. Lending
+
+</div>
