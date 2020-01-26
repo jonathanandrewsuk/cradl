@@ -6,10 +6,10 @@ description: "Cradl API"
 permalink: /
 ---
 
-# High level specifications for the V2 Cradl API
+# High level specification: V2 Cradl API
 {: .fs-9 }
 
-The V2 API gives you more granular control over which of our services best suit the needs of your customers. If our out of the box solution doesn't quite fit your needs, you will now be able to easily integrate Cradl services into your custom experiences. 
+The V2 API provides the same functionality as the out of the box solution but now the services can be accessed independently. You will now be able to easily integrate individual Cradl services into your custom experiences.
 {: .fs-6 .fw-300 }
 
 [Endpoints Overview](/cradl/docs/endpoints){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [V1 Migration Plan](/cradl/docs/migration){: .btn .fs-5 .mb-4 .mb-md-0 }
