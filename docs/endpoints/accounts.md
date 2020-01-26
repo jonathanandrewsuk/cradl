@@ -7,7 +7,8 @@ nav_order: 3
 
 # Accounts
 
-* Create accounts in the core system
+* Accounts can be created and associated with users, provided they have the correct KYC permissions.
+* Account creation requests will be passed onto the core
 
 ## Create Account
 <div class="code-example" markdown="1">
