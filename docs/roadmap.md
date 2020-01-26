@@ -9,7 +9,7 @@ description: "Cradl API"
 <div class="code-example" markdown="1">
 
 # Near Term
-{: .text-green-000}
+{: .text-green-200}
 
 ### Customer Groundwork
 
@@ -37,6 +37,7 @@ description: "Cradl API"
 <div class="code-example" markdown="1">
 
 ## Medium Term
+{: .text-green-200}
 
 ### Client Feedback
 
@@ -54,6 +55,7 @@ description: "Cradl API"
 <div class="code-example" markdown="1">
 
 ## Long Term
+{: .text-green-200}
 
 ### Beta Release
 
