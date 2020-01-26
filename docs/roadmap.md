@@ -29,7 +29,7 @@ description: "Cradl API"
 ### Users & KYC
 
 * Stand up the first 2 endpoints in a staging environment, integrated with KYC partner
-* Create "sad path" scenarios and run tests:
+* Create "unhappy path" scenarios and run tests:
     * Key fields are not passed by the user
     * KYC partner is down, how would we handle this?
 </div>
