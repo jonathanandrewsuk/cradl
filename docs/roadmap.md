@@ -11,7 +11,7 @@ description: "Cradl API"
 ## Near Term
 {: .text-green-200}
 
-### Customer Groundwork
+### Client Groundwork
 
 * Reach out to a small group of clients that have been requesting API access, get a sense of functionality priority.
 * Reach out to key existing clients that may need to migrate their services in the future. If possible they should have input on the roadmap and migration plan.
@@ -42,13 +42,13 @@ description: "Cradl API"
 ### Client Feedback
 
 * Begin testing Users & KYC with small number of early adopting clients, this could be within their staging environment.
-* Any changes/feedback should be considered by future work. e.g Is this documentation provided comprehensive enough?
+* Any changes/feedback should be considered for future work. e.g Is the documentation provided comprehensive enough?
 * Begin to develop migration plan for existing clients
 
 ### Iterative Cycles - Accounts & Payments
 
 * Bring up other endpoints in a similar fashion, getting basic functionality live and testing with key clients.
-* Perform testing of the endpoints communicating with each other to perform more advanced tasks e.g adding KYC to a User.
+* Perform integration testing for more advanced tasks e.g adding KYC to a User.
 
 </div>
 
